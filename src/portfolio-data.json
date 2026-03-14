@@ -1,0 +1,121 @@
+{
+  "templateId": "tech",
+  "primaryColor": "#00d4ff",
+  "accentColor": "#a855f7",
+  "portfolioData": {
+    "personal": {
+      "name": "RISHAB YADAV",
+      "title": "React Native Developer",
+      "email": "rishabyadav4u@gmail.com",
+      "location": "",
+      "shortBio": "React Native Developer with 2+ years building cross-platform mobile apps for iOS and Android. Specialized in insurance and fintech applications serving 100K+ users with 99.5% uptime. Expert in performance optimization (40% faster load times), testing strategies (85%+ coverage), and app deployment to Play Store and App Store.",
+      "bio": "React Native Developer with 2+ years building cross-platform mobile apps for iOS and Android. Specialized in insurance and fintech applications serving 100K+ users with 99.5% uptime. Expert in performance optimization (40% faster load times), testing strategies (85%+ coverage), and app deployment to Play Store and App Store.",
+      "resume": {
+        "url": "https://res.cloudinary.com/dsegmsiu8/raw/upload/v1773501041/portfolio/resumes/resume_976608c8-b7ad-4cb0-bea6-b78a0c77d640_1773501040.pdf",
+        "fileName": "Rishab_Yadav_React_Native_2026.pdf",
+        "fileSize": 103481,
+        "uploadedAt": "2026-03-14T15:10:41.883Z",
+        "publicPath": "https://res.cloudinary.com/dsegmsiu8/raw/upload/v1773501041/portfolio/resumes/resume_976608c8-b7ad-4cb0-bea6-b78a0c77d640_1773501040.pdf"
+      }
+    },
+    "seo": {},
+    "social": {},
+    "skills": [
+      "React Native",
+      "Expo",
+      "EAS Build",
+      "React Navigation",
+      "Deep Linking",
+      "Redux Toolkit",
+      "Async-Storage",
+      "JavaScript",
+      "TypeScript",
+      "HTML5",
+      "CSS3",
+      "C++",
+      "SQL",
+      "Jest",
+      "React Native Testing Library",
+      "Git",
+      "GitHub",
+      "Android Studio",
+      "Xcode",
+      "Postman"
+    ],
+    "projects": [
+      {
+        "id": "d4453387-93ca-474e-8ab7-ee62ac6f4717",
+        "title": "mSpace - Insurance Mobile Application",
+        "description": "Built comprehensive insurance management app for 100,000+ users with 99.5% uptime, developed 15+ reusable UI components, and implemented push notifications using React Native Firebase, boosting user engagement by 35%\nAchieved 90%+ test coverage with Jest and optimized app performance with React.memo",
+        "image": "",
+        "tags": [
+          "React Native",
+          "TypeScript",
+          "Jest",
+          "Expo"
+        ],
+        "github": "",
+        "demo": "",
+        "featured": true,
+        "visible": true
+      },
+      {
+        "id": "20deaafe-fe96-422c-a610-ef7c8e941338",
+        "title": "mRec - Agent Onboarding Mobile App",
+        "description": "Built agent onboarding platform for Axis Max Life; integrated 10+ verification APIs (KYC, PAN, Aadhaar), cutting onboarding time by 60%\nDelivered multi-step forms (React Hook Form), real-time tracking, and published to Play Store/App Store with TestFlight and Expo OTA updates",
+        "image": "",
+        "tags": [
+          "React Native",
+          "TypeScript",
+          "Jest",
+          "Expo"
+        ],
+        "github": "",
+        "demo": "",
+        "featured": false,
+        "visible": true
+      }
+    ],
+    "experience": [
+      {
+        "id": "7b385b0e-dd18-40a6-93c7-441ec84cace0",
+        "company": "pbPartners",
+        "role": "Software Engineer",
+        "period": "Feb 2025 - Present",
+        "description": "Building consumer-facing React Native apps for insurance/fintech: onboarding flows, KYC integrations, Redux state management, and production releases\nCollaborating on architecture, testing, and deployment for iOS and Android",
+        "current": false
+      },
+      {
+        "id": "3f463dc3-efab-49a7-ac96-31529b8fc903",
+        "company": "Monocept",
+        "role": "React Native Developer",
+        "period": "May 2024 - Jan 2025",
+        "description": "Developed and deployed production React Native apps for iOS/Android (100K+ users); managed Play Console and App Store releases (10+ deployments)\nBuilt reusable component libraries, Jest test suites (85%+ coverage), and performance optimizations (lazy loading, code splitting) for 40% faster load time",
+        "current": false
+      }
+    ],
+    "education": [
+      {
+        "id": "fcd44e6d-af69-4840-bf21-e2a7aa04bbff",
+        "institution": "KIET Group Of Institution, AKTU",
+        "degree": "Bachelor of Technology in Information Technology",
+        "period": "Sept 2020 - June 202",
+        "description": ""
+      }
+    ],
+    "sectionConfig": []
+  },
+  "sectionStyles": {
+    "projects": "cards-modern",
+    "experience": "timeline-classic",
+    "education": "timeline-classic"
+  },
+  "sectionOrder": [
+    "projects",
+    "experience",
+    "education"
+  ],
+  "navbarStyle": "nav-glass",
+  "footerStyle": "footer-social",
+  "heroStyle": "hero-default"
+}
